@@ -78,6 +78,7 @@ public class practicaventana extends javax.swing.JFrame {
     private void jButton1ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButton1ActionPerformed
        lblmensaje.setText("Hola, me llamo Victoria");
        lblmensaje1.setText("Como te va");
+        lblmensaje1.setText("Holaa soy Juan");
     }//GEN-LAST:event_jButton1ActionPerformed
 
     /**
